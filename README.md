@@ -12,3 +12,22 @@ Refer to the included csv for the full list.
 Copy Adele folder to /audio/en and choose adele as Sound pack 1 (main) in Ethos (Settings -> General).
 
 If you find incorrect callouts, audio issues or want phrases added, pls raise an issue.
+
+
+# Added 20/5/2026:
+
+| Path  | Text to play |
+| ------------- | ------------- |
+| disabled.wav  | disabled  |
+| enable.wav  | enable  |
+| expired.wav  | expired  |
+| inactive.wav  | inactive  |
+| level.wav  | level  |
+| ready.wav  | ready  |
+| reverse.wav  | reverse  |
+| revthrst.wav  | reverse thrust  |
+| stabilisation.wav  | stabilisation  |
+| throttle.wav  | throttle  |
+| thrust.wav  | thrust  |
+| timer.wav  | timer  |
+| warning.wav  | warning  |
