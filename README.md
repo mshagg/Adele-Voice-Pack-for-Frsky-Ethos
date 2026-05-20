@@ -3,7 +3,7 @@
 
 # Adele Voice Pack for Frsky Ethos
 
-A comprehensive voice pack for Frsky's Ethos operating system.  Hand prompted with a custom voice reflecting the accent of South Australia, which tends to sound a little more refined than the classic 'broad' Australian accent.
+A comprehensive voice pack for Frsky's Ethos operating system.  Hand prompted with a custom voice representing the accent of South Australia, known for its broader vowels and softer consonants than the better-known Australian accent from the east coast.
 
 Contains full system set of audio and 165+ additional audio files which should cover most fixed wing, multirotor, FPV and flight controller setups.  I dont know much about helis or gliders so may be lots of phrases missing for those disciplines - please let me know.
 
