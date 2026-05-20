@@ -1,5 +1,4 @@
-<img width="1254" height="1254" alt="Adele" src="https://github.com/user-attachments/assets/b946ff7a-25bf-410b-a485-6d426baf0ce8" />
-
+<img width="1536" height="1024" alt="2ce3f619-5313-4cde-b14f-106c0fd3379b" src="https://github.com/user-attachments/assets/04c75e10-62c8-4d29-986e-3c87ec409a38" />
 
 # Adele Voice Pack for Frsky Ethos
 
