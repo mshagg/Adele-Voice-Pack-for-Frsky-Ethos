@@ -1,5 +1,6 @@
 <img width="1536" height="1024" alt="2ce3f619-5313-4cde-b14f-106c0fd3379b" src="https://github.com/user-attachments/assets/04c75e10-62c8-4d29-986e-3c87ec409a38" />
 
+
 # Adele Voice Pack for Frsky Ethos
 
 A comprehensive voice pack for Frsky's Ethos operating system.  Hand prompted with a custom voice representing the accent of South Australia, known for its broader vowels and softer consonants than the better-known Australian accent from the east coast.
@@ -20,6 +21,8 @@ The download link is under the 'code' menu at the top of this page (green button
 
 <img width="1040" height="486" alt="Screenshot 2026-05-22 145723" src="https://github.com/user-attachments/assets/dd24561a-333e-4d9e-b0dd-0648269adcd2" />
 
+
+
 The zip file contains the following:
 
 - Adele folder, which contains all of the .wav files
@@ -30,9 +33,12 @@ Connect your radio and mount the storage drive.  Move the "Adele" folder from th
 
 <img width="1903" height="786" alt="Screenshot 2026-05-22 204128" src="https://github.com/user-attachments/assets/1c4b28ba-32fb-4a78-bf99-a2fb9e66fec0" />
 
+
+
 Enter general settings in Ethos and select Adele as the main sound pack:
 
 <img width="800" height="480" alt="screenshot-2026-05-22-74975" src="https://github.com/user-attachments/assets/c8cc7830-ff34-4721-9798-dc50ad45f2e4" />
+
 
 # Added 22/5/2026:
 
