@@ -12,6 +12,13 @@ Copy Adele folder to /audio/en and choose adele as Sound pack 1 (main) in Ethos 
 
 If you find incorrect callouts, audio issues or want phrases added, pls raise an issue.
 
+# How to use
+
+This guide assumes a relatively recent version of Ethos.  See above for the download link:
+
+<img width="1040" height="486" alt="Screenshot 2026-05-22 145723" src="https://github.com/user-attachments/assets/dd24561a-333e-4d9e-b0dd-0648269adcd2" />
+
+
 # Added 22/5/2026:
 
 | Path  | Text to play |
