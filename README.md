@@ -16,7 +16,7 @@ If you find incorrect callouts, audio issues or want phrases added, pls raise an
 
 This guide assumes a relatively recent version of Ethos.  
 
-The download link is under the 'code' menu (green button):
+The download link is under the 'code' menu at the top of this page (green button):
 
 <img width="1040" height="486" alt="Screenshot 2026-05-22 145723" src="https://github.com/user-attachments/assets/dd24561a-333e-4d9e-b0dd-0648269adcd2" />
 
