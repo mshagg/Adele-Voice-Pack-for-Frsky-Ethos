@@ -18,6 +18,13 @@ This guide assumes a relatively recent version of Ethos.  See above for the down
 
 <img width="1040" height="486" alt="Screenshot 2026-05-22 145723" src="https://github.com/user-attachments/assets/dd24561a-333e-4d9e-b0dd-0648269adcd2" />
 
+Connect your radio and mount the storage drive.  Move the "Adele" folder from the downloaded zip file to /audio/en your radio's SD card/storage
+
+<img width="1903" height="786" alt="Screenshot 2026-05-22 204128" src="https://github.com/user-attachments/assets/1c4b28ba-32fb-4a78-bf99-a2fb9e66fec0" />
+
+Enter general settings in Ethos and select Adele as the main sound pack:
+
+<img width="800" height="480" alt="screenshot-2026-05-22-74975" src="https://github.com/user-attachments/assets/c8cc7830-ff34-4721-9798-dc50ad45f2e4" />
 
 # Added 22/5/2026:
 
