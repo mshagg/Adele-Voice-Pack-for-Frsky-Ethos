@@ -12,6 +12,11 @@ Copy Adele folder to /audio/en and choose adele as Sound pack 1 (main) in Ethos 
 
 If you find incorrect callouts, audio issues or want phrases added, pls raise an issue.
 
+# Added 22/5/2026:
+
+| Path  | Text to play |
+| ------------- | ------------- |
+| fm-1.wav  | flight mode 1  |
 
 # Added 20/5/2026:
 
