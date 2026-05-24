@@ -39,6 +39,19 @@ Enter general settings in Ethos and select Adele as the main sound pack:
 
 <img width="800" height="480" alt="screenshot-2026-05-22-74975" src="https://github.com/user-attachments/assets/c8cc7830-ff34-4721-9798-dc50ad45f2e4" />
 
+# Added 22/5/2026:
+
+| Path  | Text to play |
+| ------------- | ------------- |
+| as3x.wav  | as3x  |
+| as3x+.wav  | as3x plus  |
+| as3xoff.wav  | as3x off  |
+| as3xon.wav  | as3x on  |
+| nogyro.wav  | no gyro  |
+| panicoff.wav  | panic off  |
+| panicon.wav  | panic on  |
+| safeoff.wav  | safe off  |
+| safeon.wav  | safe on  |
 
 # Added 22/5/2026:
 
