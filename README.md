@@ -39,6 +39,27 @@ Enter general settings in Ethos and select Adele as the main sound pack:
 
 <img width="800" height="480" alt="screenshot-2026-05-22-74975" src="https://github.com/user-attachments/assets/c8cc7830-ff34-4721-9798-dc50ad45f2e4" />
 
+# Added 29/5/2026:
+
+| Path  | Text to play |
+| ------------- | ------------- |
+| turbinestrt.wav  | turbine start  |
+| turbinesht.wav  | turbine shut down  |
+| flameout.wav  | flameout!  |
+| fuelflow.wav  | fuel flow |
+| rollpopon.wav  | roll pop on  |
+| rollpopoff.wav  | roll pop off  |
+| hedhldrollson.wav  | heading hold rolls on  |
+| hedhldrollsoff.wav  | heading hold rolls off  |
+| tvon.wav  | thrust vector on  |
+| tvoff.wav  | thrust vector off  |
+| tailhkup.wav  | tail hook up  |
+| tailhkdown.wav  | tail hook down  |
+| taileronson.wav  | tailerons on  |
+| taileronsoff.wav  | tailerons off  |
+| flperonson.wav  | flaperons on  |
+| flperonsoff.wav  | flaperons off  |
+
 # Added 22/5/2026:
 
 | Path  | Text to play |
