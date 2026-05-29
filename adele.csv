@@ -1,0 +1,462 @@
+path,text to play
+system/0.wav,0
+system/1.wav,1
+system/2.wav,2
+system/3.wav,3
+system/4.wav,4
+system/5.wav,5
+system/6.wav,6
+system/7.wav,7
+system/8.wav,8
+system/9.wav,9
+system/10.wav,10
+system/11.wav,11
+system/12.wav,12
+system/13.wav,13
+system/14.wav,14
+system/15.wav,15
+system/16.wav,16
+system/17.wav,17
+system/18.wav,18
+system/19.wav,19
+system/20.wav,20
+system/21.wav,21
+system/22.wav,22
+system/23.wav,23
+system/24.wav,24
+system/25.wav,25
+system/26.wav,26
+system/27.wav,27
+system/28.wav,28
+system/29.wav,29
+system/30.wav,30
+system/31.wav,31
+system/32.wav,32
+system/33.wav,33
+system/34.wav,34
+system/35.wav,35
+system/36.wav,36
+system/37.wav,37
+system/38.wav,38
+system/39.wav,39
+system/40.wav,40
+system/41.wav,41
+system/42.wav,42
+system/43.wav,43
+system/44.wav,44
+system/45.wav,45
+system/46.wav,46
+system/47.wav,47
+system/48.wav,48
+system/49.wav,49
+system/50.wav,50
+system/51.wav,51
+system/52.wav,52
+system/53.wav,53
+system/54.wav,54
+system/55.wav,55
+system/56.wav,56
+system/57.wav,57
+system/58.wav,58
+system/59.wav,59
+system/60.wav,60
+system/61.wav,61
+system/62.wav,62
+system/63.wav,63
+system/64.wav,64
+system/65.wav,65
+system/66.wav,66
+system/67.wav,67
+system/68.wav,68
+system/69.wav,69
+system/70.wav,70
+system/71.wav,71
+system/72.wav,72
+system/73.wav,73
+system/74.wav,74
+system/75.wav,75
+system/76.wav,76
+system/77.wav,77
+system/78.wav,78
+system/79.wav,79
+system/80.wav,80
+system/81.wav,81
+system/82.wav,82
+system/83.wav,83
+system/84.wav,84
+system/85.wav,85
+system/86.wav,86
+system/87.wav,87
+system/88.wav,88
+system/89.wav,89
+system/90.wav,90
+system/91.wav,91
+system/92.wav,92
+system/93.wav,93
+system/94.wav,94
+system/95.wav,95
+system/96.wav,96
+system/97.wav,97
+system/98.wav,98
+system/99.wav,99
+system/100.wav,100
+system/200.wav,200
+system/300.wav,300
+system/400.wav,400
+system/500.wav,500
+system/600.wav,600
+system/700.wav,700
+system/800.wav,800
+system/900.wav,900
+system/ah.wav,ampere-hour
+system/ahs.wav,ampere-hours
+system/amp.wav,amp
+system/amps.wav,amps
+system/and.wav,and
+system/bar.wav,bar
+system/bars.wav,bars
+system/bind.wav,Bind
+system/celsius.wav,degree celsius
+system/celsiuss.wav,degrees celsius
+system/cm.wav,centimeter
+system/cmps.wav,centimeter per second
+system/cms.wav,centimeters
+system/cmsps.wav,centimeters per second
+system/db.wav,db
+system/dbm.wav,dbm
+system/dbs.wav,db
+system/degree.wav,degree
+system/degrees.wav,degrees
+system/down.wav,down
+system/fahrenheit.wav,degree fahrenheit
+system/fahrenheits.wav,degrees fahrenheit
+system/feet.wav,feet
+system/feetpm.wav,feet per minute
+system/feetps.wav,feet per second
+system/foot.wav,foot
+system/footpm.wav,foot per minute
+system/footps.wav,foot per second
+system/function-switches-warning.wav,function switches warning
+system/g.wav,g
+system/hello.wav,Welcome to ethos
+system/hour.wav,hour
+system/hours.wav,hours
+system/hz.wav,hertz
+system/inactivity.wav,Prolonged inactivity
+system/km.wav,kilometer
+system/kms.wav,kilometers
+system/kpa.wav,kilopascal
+system/kpas.wav,kilopascals
+system/kph.wav,kilometer per hour
+system/ksph.wav,kilometers per hour
+system/low-battery.wav,Radio battery is low
+system/low-rtc-battery.wav,RTC battery is low
+system/mah.wav,milliamp-hour
+system/mahs.wav,milliamp-hours
+system/mamp.wav,milliamp
+system/mamps.wav,milliamps
+system/meter.wav,meter
+system/meterpm.wav,meter per minute
+system/meterps.wav,meter per second
+system/meters.wav,meters
+system/meterspm.wav,meters per minute
+system/metersps.wav,meters per second
+system/mhz.wav,mega hertz
+system/microsecond.wav,microsecond
+system/microseconds.wav,microseconds
+system/middle.wav,middle
+system/mile.wav,mile
+system/miles.wav,miles
+system/millisecond.wav,millisecond
+system/milliseconds.wav,milliseconds
+system/minus.wav,minus
+system/minute.wav,minute
+system/minutes.wav,minutes
+system/ml.wav,milliliter
+system/mlpm.wav,milliliter per minute
+system/mlpms.wav,milliliters per minute
+system/mlpp.wav,milliliter per pulse
+system/mlpps.wav,milliliters per pulse
+system/mls.wav,milliliters
+system/modelfile-version-error.wav,Model file version does not match
+system/mpa.wav,megapascal
+system/mpas.wav,megapascals
+system/mph.wav,mile per hour
+system/msph.wav,miles per hour
+system/mvolt.wav,millivolt
+system/mvolts.wav,millivolts
+system/mwatt.wav,milliwatt
+system/mwatts.wav,milliwatts
+system/no-calibration.wav,The sticks are not calibrated
+system/no-failsafe.wav,Failsafe not set
+system/no-sound.wav,Radio is in silent mode
+system/pa.wav,pascal
+system/pas.wav,pascals
+system/percent.wav,percent
+system/percents.wav,percent
+system/point1.wav,point one
+system/point2.wav,point two
+system/point3.wav,point three
+system/point4.wav,point four
+system/point5.wav,point five
+system/point6.wav,point six
+system/point7.wav,point seven
+system/point8.wav,point eight
+system/point9.wav,point nine
+system/pot-warning.wav,pot warning
+system/psi.wav,pound per square inch
+system/psis.wav,pounds per square inch
+system/rad.wav,rad
+system/range-check.wav,Range check
+system/register.wav,Register
+system/rpm.wav,rotation per minute
+system/rpms.wav,rotations per minute
+system/rssi-critical-warning.wav,RSSI critical warning
+system/rssi-ext-critical-warning.wav,External module RSSI critical warning
+system/rssi-ext-lost.wav,External module telemetry lost
+system/rssi-ext-low-warning.wav,External module RSSI low warning
+system/rssi-ext-recovered.wav,External module telemetry recovered
+system/rssi-int-critical-warning.wav,Internal module RSSI critical warning
+system/rssi-int-lost.wav,Internal module telemetry lost
+system/rssi-int-low-warning.wav,Internal module RSSI low warning
+system/rssi-int-recovered.wav,Internal module telemetry recovered
+system/rssi-int2g4-critical-warning.wav,Internal module 2 giga 4 RSSI critical warning
+system/rssi-int2g4-lost.wav,Internal module 2 giga 4 telemetry lost
+system/rssi-int2g4-low-warning.wav,Internal module 2 giga 4 RSSI low warning
+system/rssi-int2g4-recovered.wav,Internal module 2 giga 4 telemetry recovered
+system/rssi-int900m-critical-warning.wav,Internal module 900 mega RSSI critical warning
+system/rssi-int900m-lost.wav,Internal module 900 mega telemetry lost
+system/rssi-int900m-low-warning.wav,Internal module 900 mega RSSI low warning
+system/rssi-int900m-recovered.wav,Internal module 900 mega telemetry recovered
+system/rssi-lost.wav,Telemetry lost
+system/rssi-low-warning.wav,RSSI low warning
+system/rssi-recovered.wav,Telemetry recovered
+system/rx-on-warning.wav,Receiver is still ON
+system/second.wav,second
+system/seconds.wav,seconds
+system/sensor-conflict.wav,Sensor conflict
+system/sensor-lost.wav,Sensor lost
+system/switch-warning.wav,switch warning
+system/swr-warning.wav,SWR warning
+system/system-file-version-error.wav,System file version does not match
+system/thousand.wav,thousand
+system/thousands.wav,thousands
+system/throttle-warning.wav,Throttle not idle
+system/trainer-lost.wav,Trainer lost
+system/trainer-recovered.wav,Trainer recovered
+system/trim-center.wav,trim center
+system/trim-max.wav,max reached
+system/trim-min.wav,min reached
+system/up.wav,up
+system/vfr-low-warning.wav,VFR low warning
+system/volt.wav,volt
+system/volts.wav,volts
+system/watt.wav,watt
+system/watts.wav,watts
+1cell.wav,1 cell
+2cell.wav,2 cell
+3cell.wav,3 cell
+3d.wav,3D
+3d.wav,3D
+3drtoff.wav,3D rates off
+3drton.wav,3D rates on
+4cell.wav,4 cell
+5cell.wav,5 cell
+6cell.wav,6 cell
+abkcl.wav,airbrake closed
+abkop.wav,airbrake open
+acrmd.wav,acro mode
+acro.wav,acro
+acromd.wav,acro mode
+acrotrn.wav,acro trainer
+actv.wav,active
+actvtd.wav,activated
+ailhigh.wav,ailerons high
+aillow.wav,ailerons low
+ailmed.wav,ailerons medium
+airmod.wav,air mode
+airspd.wav,airspeed
+althld.wav,altitutde hold
+angle.wav,angle
+anglmd.wav,angle mode
+armed.wav,armed
+as3x.wav,as3x
+as3x+.wav,as3x plus
+as3xoff.wav,as3x off
+as3xon.wav,as3x on
+atnmd.wav,auto tune mode
+auto.wav,auto
+autorotate.wav,autorotation
+auttn.wav,autotune
+bklght.wav,backlight
+brakes-off.wav,brakes off
+brakes-on.wav,brakes on
+butterfly-off.wav,butterfly off
+butterfly-on.wav,butterfly on
+camber.wav,camber
+camcnt.wav,camera centered
+camfix.wav,camera fixed
+camman.wav,camera manual
+camoff.wav,camera off
+camon.wav,camera on
+crow.wav,crow
+darmed.wav,disarmed
+disabled.wav,disabled
+enable.wav,enable
+engarm.wav,engine armed
+engdis.wav,engine disabled
+engdrm.wav,engine disarmed
+engoff.wav,engine off
+engon.wav,engine on
+expired.wav,expired
+failsafe.wav,failsafe
+fbwa.wav,fly by wire a
+fbwb.wav,fly by wire b
+flameout.wav,flameout!
+flapfl.wav,flaps full
+flaphf.wav,flaps half
+flaps-1.wav,flaps 1
+flaps-2.wav,flaps 2
+flaps-3.wav,flaps 3
+flaps-4.wav,flaps 4
+flaps-5.wav,flaps 5
+flaps.wav,flaps
+flapup.wav,flaps up
+flip.wav,flip
+flpdn.wav,flaps down
+flperonsoff.wav,flaperons off
+flperonson.wav,flaperons on
+flprn.wav,flaperons
+fm-1.wav,flight mode one
+fm-10.wav,flight mode ten
+fm-2.wav,flight mode two
+fm-3.wav,flight mode three
+fm-4.wav,flight mode four
+fm-5.wav,flight mode five
+fm-6.wav,flight mode six
+fm-7.wav,flight mode seven
+fm-8.wav,flight mode eight
+fm-9.wav,flight mode nine
+fm-acro.wav,flight mode acro
+fm-angle.wav,flight mode angle
+fm-cruise.wav,flight mode cruise
+fm-fast.wav,flight mode fast
+fm-float.wav,flight mode float
+fm-horizon.wav,flight mode horizon
+fm-idle-1.wav,flight mode idle up 1
+fm-idle-2.wav,flight mode idle up 2
+fm-land.wav,flight mode land
+fm-launch.wav,flight mode launch
+fm-normal.wav,flight mode normal
+fm-ping.wav,flight mode ping
+fm-power.wav,flight mode power
+fm-race.wav,flight mode race
+fm-speed.wav,flight mode speed
+fm-stabilize.wav,flight mode stabilize
+fm-thermal-left.wav,flight mode thermal left
+fm-thermal-right.wav,flight mode thermal right
+fm-thermal.wav,flight mode thermal
+fuelflow.wav,fuel flow
+fullflp.wav,full flaps
+fullsflp.wav,full span flaps
+fullspail.wav,full span ailerons
+geardn.wav,gear down
+gearext.wav,gear extended
+gearrtd.wav,gear retracted
+gearup.wav,gear up
+gimblact.wav,gimbal active
+gimblof.wav,gimbal off
+gimblon.wav,gimbal on
+gps.wav,gps
+gpsrescue.wav,gps rescue
+hedhld.wav,heading hold
+hedhldrollsoff.wav,heading hold rolls off
+hedhldrollson.wav,heading hold rolls on
+hirat.wav,high rates
+hlffpl.wav,half flaps
+hover.wav,hover
+hovermd.wav,hover mode
+hrzn.wav,horizon
+hrznmd.wav,horizon mode
+inactive.wav,inactive
+knife.wav,knife edge
+landing.wav,landing
+launchmd.wav,launch mode
+level.wav,level
+lights-off.wav,lights off
+lights-on.wav,lights on
+loitr.wav,loiter
+lowrat.wav,low rates
+manmd.wav,manual mode
+manual.wav,manual
+midrat.wav,middle rates
+nogyro.wav,no gyro
+normal.wav,normal
+nrmmode.wav,normal mode
+off.wav,off
+on.wav,on
+osd-off.wav,OSD off
+osd-on.wav,OSD on
+osd.wav,OSD
+panicoff.wav,panic off
+panicon.wav,panic on
+pattern.wav,pattern
+poshld.wav,position hold
+pot-warning.wav,pot warning
+rate-high.wav,high rate
+rate-low.wav,low rate
+rate-medium.wav,medium rate
+ratemd.wav,rate mode
+ready.wav,ready
+reflex.wav,reflex
+reset.wav,reset
+reverse.wav,reverse
+revthrst.wav,reverse thrust
+rollpopoff.wav,roll pop off
+rollpopon.wav,roll pop on
+rth.wav,return to home
+rtl.wav,return to launch
+safeoff.wav,safe off
+safeon.wav,safe on
+smkoff.wav,smoke off
+smkon.wav,smoke on
+spoileron.wav,spoilerons
+spoilers,spoliers
+sport.wav,sport
+stab.wav,stabilised
+stabilisation.wav,stabilisation
+start.wav,start
+stop.wav,stop
+tailerons.wav,tailerons
+taileronsoff.wav,tailerons off
+taileronson.wav,tailerons on
+tailhkdown.wav,tail hook down
+tailhkup.wav,tail hook up
+take-off.wav,take off
+telemetry-log-off.wav,telemetry logging off
+telemetry-log-on.wav,telemetry logging on
+telemetry.wav,telemetry
+throttle-cut.wav,throttle cut
+throttle-hold.wav,throttle hold
+throttle.wav,throttle
+thrust.wav,thrust
+timer.wav,timer
+timer.wav,timer
+timer1-reset.wav,timer 1 reset
+timer2-reset.wav,timer 2 reset
+timer3-reset.wav,timer 3 reset
+trainer-lost.wav,trainer signal lost
+turbinesht.wav,turbine shut down
+turbinestrt.wav,turbine start
+turtle-off.wav,turtle mode off
+turtle-on.wav,turtle mode on
+tvoff.wav,thrust vector off
+tvon.wav,thrust vector on
+vario-off.wav,vario off
+vario-on.wav,vario on
+vtx-off.wav,VTX off
+vtx-on.wav,VTX on
+warning.wav,warning
+waypoint.wav,waypoint
+wheel-brakes-off.wav,wheel brakes off
+wheel-brakes-on.wav,wheel brakes on
