@@ -39,6 +39,14 @@ Enter general settings in Ethos and select Adele as the main sound pack:
 
 <img width="800" height="480" alt="screenshot-2026-05-22-74975" src="https://github.com/user-attachments/assets/c8cc7830-ff34-4721-9798-dc50ad45f2e4" />
 
+# Added 24/6/2026:
+
+| Path  | Text to play |
+| ------------- | ------------- |
+| cruisemd.wav  | cruise mode  |
+| speedmd.wav  | speed mode  |
+| thermalmd.wav  | thermal mode  |
+
 # Added 3/6/2026:
 
 | Path  | Text to play |
